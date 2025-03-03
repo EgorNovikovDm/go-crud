@@ -1,6 +1,6 @@
 module github.com/EgoriyNovikovDm/go-crud
 
-go 1.19
+go 1.21
 
 require (
 	github.com/fatih/color v1.9.0 // indirect
